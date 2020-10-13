@@ -111,4 +111,10 @@ body {
     color: #1369ce;
     background-color: #f7f5ec;
   }
-  
+  .xyz{
+  color: white;
+}
+.xyz:hover{
+  text-decoration: none;
+  color:white;
+}
