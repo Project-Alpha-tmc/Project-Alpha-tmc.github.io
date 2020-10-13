@@ -221,3 +221,10 @@ body {
   word-spacing: 30px;
   letter-spacing: 20px;
 }
+.xyz{
+  color: white;
+}
+.xyz:hover{
+  text-decoration: none;
+  color:white;
+}
