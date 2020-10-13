@@ -785,7 +785,7 @@ i {
 /* --------------------end footer-------------------- */
 
 .new_footer_top {
-    padding: 120px 0px 130px;
+    padding: 120px 0px 110px;
     position: absolute;
     background-color: rgba(240, 122, 67, 0.658);
     width: 50%;
@@ -799,7 +799,7 @@ i {
     width: 1250px;
     height: 266px;
 }
-
+/*
 .new_footer_top .footer_bg .footer_bg_one {
     background: url("https://1.bp.blogspot.com/-mvKUJFGEc-k/XclCOUSvCnI/AAAAAAAAUAE/jnBSf6Fe5_8tjjlKrunLBXwceSNvPcp3wCLcBGAsYHQ/s1600/volks.gif") no-repeat center center;
     width: 330px;
@@ -824,7 +824,7 @@ i {
     animation: myfirst 9s linear infinite;
 }
 
-
+*/
 
 @-moz-keyframes myfirst {
   0% {
