@@ -808,8 +808,8 @@ i {
     position: absolute;
     bottom: 0;
     left: 30%;
-    -webkit-animation: myfirst 12s linear infinite;
-    animation: myfirst 12s linear infinite;
+    -webkit-animation: myfirst 9s linear infinite;
+    animation: myfirst 9s linear infinite;
 }
 
 .new_footer_top .footer_bg .footer_bg_two {
@@ -820,8 +820,8 @@ i {
     bottom: 0;
     left: 38%;
     position: absolute;
-    -webkit-animation: myfirst 11.9s linear infinite;
-    animation: myfirst 11.9s linear infinite;
+    -webkit-animation: myfirst 9s linear infinite;
+    animation: myfirst 9s linear infinite;
 }
 
 
